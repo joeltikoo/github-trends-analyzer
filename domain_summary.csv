@@ -1,0 +1,13 @@
+domains,repo_count,avg_stars,dominant_language
+CLI Tools,81,54569.67,Python
+Cloud,24,60257.12,Python
+Data Science,42,47154.64,Python
+Database,58,48701.0,TypeScript
+DevOps,82,53326.62,Go
+Framework/Library,86,57784.92,Python
+Game Development,11,55567.64,C++
+Machine Learning,208,57743.39,Python
+Mobile Development,76,53880.32,TypeScript
+Other,305,63208.15,Python
+Security,24,59412.0,Python
+Web Development,246,57336.81,TypeScript
