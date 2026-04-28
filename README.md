@@ -189,16 +189,22 @@ The notebook generates several output files:
 - `rising_repositories.csv` - Top rising repos by growth rate
 
 ### Visualizations (PNG, 300 DPI)
-- `popular_languages.png` - Language popularity charts
-- `language_by_domain.png` - Heatmap of languages vs domains
-- `top_repositories.png` - Top starred repositories
-- `rising_repositories.png` - Rising repos by growth rate
-- `language_trends.png` - Language trends over time
-- `language_combinations.png` - Common language pairs
-- `repository_metrics.png` - Multi-panel metrics analysis
-- `domain_distribution.png` - Domain pie chart
-- `correlation_matrix.png` - Metric correlations
-- `license_distribution.png` - License usage patterns
+- **Language popularity charts**
+  ![Language popularity charts](visualizations/popular_languages.png)
+- **Heatmap of languages vs domains**  
+  ![Heatmap of languages vs domains](visualizations/language_by_domain.png)
+- **Top starred repositories**  
+  ![Top starred repositories](visualizations/top_repositories.png)
+- **Language trends over time**  
+  ![Language trends over time](visualizations/language_trends.png)
+- **Common language pairs**  
+  ![Common language pairs](visualizations/language_combinations.png)
+- **Multi-panel metrics analysis**  
+  ![Multi-panel metrics analysis](visualizations/repository_metrics.png)
+- **Metric correlations**  
+  ![Metric correlations](visualizations/correlation_matrix.png)
+- **License usage patterns**
+  ![License usage patterns](visualizations/license_distribution.png)
 
 ## Analysis Examples
 
